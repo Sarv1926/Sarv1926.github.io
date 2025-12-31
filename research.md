@@ -5,7 +5,7 @@ title: Research
 
 <h1>Research</h1>
 
-<p><a href="./">Home</a> | <a href="./cv">CV</a></p>
+<p><a href="./">Home</a> | <a href="https://sarv1926.github.io/assets/cv.pdf" target="_blank">CV</a></p>
 
 <hr>
 
@@ -33,5 +33,5 @@ We develop a Two-Agent New Keynesian DSGE model with endogenous human capital ac
 <p>
 Develops an industrial organization model of incomplete monetary policy pass-through in India. The framework features public sector banks with partial privatization and credit risk in a two-stage Cournot competition setting, generating endogenous pass-through frictions.
 </p>
-<p><a href="./assets/incomplete_pass_through_banking.pdf" target="_blank">📄 PDF</a></p>
+<p><a href="https://sarv1926.github.io/assets/incomplete_pass_through_banking.pdf" target="_blank">📄 PDF</a></p>
 </details>
