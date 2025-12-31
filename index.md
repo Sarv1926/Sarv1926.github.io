@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome
+<h1>Welcome</h1>
 
-[Research](./research) | [CV](./cv)
+<p><a href="./research">Research</a> | <a href="./cv">CV</a></p>
