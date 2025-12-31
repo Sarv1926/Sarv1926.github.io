@@ -5,4 +5,4 @@ title: Home
 
 # Welcome
 
-[Research](/research) | [CV](/cv)
+[Research](./research) | [CV](./cv)
