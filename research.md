@@ -20,7 +20,7 @@ We develop a Two-Agent New Keynesian DSGE model with endogenous human capital ac
 
 <details>
 <summary><strong>Unforeseen Impacts of Electricity Subsidies</strong><br>
-<em>With Dr. Saubhagya Sahoo.</em>
+<em>With Dr. Soubhagya Sahoo.</em>
 </summary>
 <p>
 </p>
